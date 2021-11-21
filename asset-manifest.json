@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/moka/static/css/main.36ca5127.chunk.css",
-    "main.js": "/moka/static/js/main.a7b87f13.chunk.js",
-    "main.js.map": "/moka/static/js/main.a7b87f13.chunk.js.map",
+    "main.css": "/moka/static/css/main.c15c3d98.chunk.css",
+    "main.js": "/moka/static/js/main.9f10323d.chunk.js",
+    "main.js.map": "/moka/static/js/main.9f10323d.chunk.js.map",
     "runtime-main.js": "/moka/static/js/runtime-main.04291d8d.js",
     "runtime-main.js.map": "/moka/static/js/runtime-main.04291d8d.js.map",
     "static/js/2.3bf52b97.chunk.js": "/moka/static/js/2.3bf52b97.chunk.js",
     "static/js/2.3bf52b97.chunk.js.map": "/moka/static/js/2.3bf52b97.chunk.js.map",
     "index.html": "/moka/index.html",
-    "static/css/main.36ca5127.chunk.css.map": "/moka/static/css/main.36ca5127.chunk.css.map",
+    "static/css/main.c15c3d98.chunk.css.map": "/moka/static/css/main.c15c3d98.chunk.css.map",
     "static/js/2.3bf52b97.chunk.js.LICENSE.txt": "/moka/static/js/2.3bf52b97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.04291d8d.js",
     "static/js/2.3bf52b97.chunk.js",
-    "static/css/main.36ca5127.chunk.css",
-    "static/js/main.a7b87f13.chunk.js"
+    "static/css/main.c15c3d98.chunk.css",
+    "static/js/main.9f10323d.chunk.js"
   ]
 }
