@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moka/static/css/main.b09edbec.chunk.css",
-    "main.js": "/moka/static/js/main.d29e570a.chunk.js",
-    "main.js.map": "/moka/static/js/main.d29e570a.chunk.js.map",
+    "main.css": "/moka/static/css/main.6ed9f988.chunk.css",
+    "main.js": "/moka/static/js/main.8d0352ea.chunk.js",
+    "main.js.map": "/moka/static/js/main.8d0352ea.chunk.js.map",
     "runtime-main.js": "/moka/static/js/runtime-main.04291d8d.js",
     "runtime-main.js.map": "/moka/static/js/runtime-main.04291d8d.js.map",
-    "static/js/2.3bf52b97.chunk.js": "/moka/static/js/2.3bf52b97.chunk.js",
-    "static/js/2.3bf52b97.chunk.js.map": "/moka/static/js/2.3bf52b97.chunk.js.map",
+    "static/js/2.9e332511.chunk.js": "/moka/static/js/2.9e332511.chunk.js",
+    "static/js/2.9e332511.chunk.js.map": "/moka/static/js/2.9e332511.chunk.js.map",
     "index.html": "/moka/index.html",
-    "static/css/main.b09edbec.chunk.css.map": "/moka/static/css/main.b09edbec.chunk.css.map",
-    "static/js/2.3bf52b97.chunk.js.LICENSE.txt": "/moka/static/js/2.3bf52b97.chunk.js.LICENSE.txt",
+    "static/css/main.6ed9f988.chunk.css.map": "/moka/static/css/main.6ed9f988.chunk.css.map",
+    "static/js/2.9e332511.chunk.js.LICENSE.txt": "/moka/static/js/2.9e332511.chunk.js.LICENSE.txt",
     "static/media/1.299523d3.jpg": "/moka/static/media/1.299523d3.jpg",
     "static/media/1.f846e521.jpg": "/moka/static/media/1.f846e521.jpg",
     "static/media/2.090c55a2.jpg": "/moka/static/media/2.090c55a2.jpg",
@@ -25,13 +25,16 @@
     "static/media/7.1af2eec5.jpg": "/moka/static/media/7.1af2eec5.jpg",
     "static/media/8.965eed67.jpg": "/moka/static/media/8.965eed67.jpg",
     "static/media/9.39c4f500.jpg": "/moka/static/media/9.39c4f500.jpg",
+    "static/media/fond.6104431a.png": "/moka/static/media/fond.6104431a.png",
     "static/media/fusee.265e01d8.png": "/moka/static/media/fusee.265e01d8.png",
-    "static/media/fusee.5fdcc107.webp": "/moka/static/media/fusee.5fdcc107.webp"
+    "static/media/fusee.5fdcc107.webp": "/moka/static/media/fusee.5fdcc107.webp",
+    "static/media/hel.d7fe7173.png": "/moka/static/media/hel.d7fe7173.png",
+    "static/media/hel1.7c13b96f.png": "/moka/static/media/hel1.7c13b96f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.04291d8d.js",
-    "static/js/2.3bf52b97.chunk.js",
-    "static/css/main.b09edbec.chunk.css",
-    "static/js/main.d29e570a.chunk.js"
+    "static/js/2.9e332511.chunk.js",
+    "static/css/main.6ed9f988.chunk.css",
+    "static/js/main.8d0352ea.chunk.js"
   ]
 }
