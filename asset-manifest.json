@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/moka/static/css/main.3321a764.chunk.css",
+    "main.css": "/moka/static/css/main.29f3fbad.chunk.css",
     "main.js": "/moka/static/js/main.c9c8c548.chunk.js",
     "main.js.map": "/moka/static/js/main.c9c8c548.chunk.js.map",
     "runtime-main.js": "/moka/static/js/runtime-main.04291d8d.js",
@@ -8,7 +8,7 @@
     "static/js/2.71d9526b.chunk.js": "/moka/static/js/2.71d9526b.chunk.js",
     "static/js/2.71d9526b.chunk.js.map": "/moka/static/js/2.71d9526b.chunk.js.map",
     "index.html": "/moka/index.html",
-    "static/css/main.3321a764.chunk.css.map": "/moka/static/css/main.3321a764.chunk.css.map",
+    "static/css/main.29f3fbad.chunk.css.map": "/moka/static/css/main.29f3fbad.chunk.css.map",
     "static/js/2.71d9526b.chunk.js.LICENSE.txt": "/moka/static/js/2.71d9526b.chunk.js.LICENSE.txt",
     "static/media/1.299523d3.jpg": "/moka/static/media/1.299523d3.jpg",
     "static/media/1.f846e521.jpg": "/moka/static/media/1.f846e521.jpg",
@@ -39,7 +39,7 @@
   "entrypoints": [
     "static/js/runtime-main.04291d8d.js",
     "static/js/2.71d9526b.chunk.js",
-    "static/css/main.3321a764.chunk.css",
+    "static/css/main.29f3fbad.chunk.css",
     "static/js/main.c9c8c548.chunk.js"
   ]
 }
