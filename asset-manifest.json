@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moka/static/css/main.0c4de80c.chunk.css",
-    "main.js": "/moka/static/js/main.d35d8555.chunk.js",
-    "main.js.map": "/moka/static/js/main.d35d8555.chunk.js.map",
+    "main.css": "/moka/static/css/main.3321a764.chunk.css",
+    "main.js": "/moka/static/js/main.c9c8c548.chunk.js",
+    "main.js.map": "/moka/static/js/main.c9c8c548.chunk.js.map",
     "runtime-main.js": "/moka/static/js/runtime-main.04291d8d.js",
     "runtime-main.js.map": "/moka/static/js/runtime-main.04291d8d.js.map",
-    "static/js/2.9e332511.chunk.js": "/moka/static/js/2.9e332511.chunk.js",
-    "static/js/2.9e332511.chunk.js.map": "/moka/static/js/2.9e332511.chunk.js.map",
+    "static/js/2.71d9526b.chunk.js": "/moka/static/js/2.71d9526b.chunk.js",
+    "static/js/2.71d9526b.chunk.js.map": "/moka/static/js/2.71d9526b.chunk.js.map",
     "index.html": "/moka/index.html",
-    "static/css/main.0c4de80c.chunk.css.map": "/moka/static/css/main.0c4de80c.chunk.css.map",
-    "static/js/2.9e332511.chunk.js.LICENSE.txt": "/moka/static/js/2.9e332511.chunk.js.LICENSE.txt",
+    "static/css/main.3321a764.chunk.css.map": "/moka/static/css/main.3321a764.chunk.css.map",
+    "static/js/2.71d9526b.chunk.js.LICENSE.txt": "/moka/static/js/2.71d9526b.chunk.js.LICENSE.txt",
     "static/media/1.299523d3.jpg": "/moka/static/media/1.299523d3.jpg",
     "static/media/1.f846e521.jpg": "/moka/static/media/1.f846e521.jpg",
     "static/media/2.090c55a2.jpg": "/moka/static/media/2.090c55a2.jpg",
@@ -30,6 +30,7 @@
     "static/media/fusee.5fdcc107.webp": "/moka/static/media/fusee.5fdcc107.webp",
     "static/media/hel.d7fe7173.png": "/moka/static/media/hel.d7fe7173.png",
     "static/media/hel1.7c13b96f.png": "/moka/static/media/hel1.7c13b96f.png",
+    "static/media/helico.872ef639.png": "/moka/static/media/helico.872ef639.png",
     "static/media/pilote2.6edfd5af.png": "/moka/static/media/pilote2.6edfd5af.png",
     "static/media/piloteno.75c49db7.png": "/moka/static/media/piloteno.75c49db7.png",
     "static/media/piloteye.a32e5594.png": "/moka/static/media/piloteye.a32e5594.png",
@@ -37,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.04291d8d.js",
-    "static/js/2.9e332511.chunk.js",
-    "static/css/main.0c4de80c.chunk.css",
-    "static/js/main.d35d8555.chunk.js"
+    "static/js/2.71d9526b.chunk.js",
+    "static/css/main.3321a764.chunk.css",
+    "static/js/main.c9c8c548.chunk.js"
   ]
 }
