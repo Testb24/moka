@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moka/static/css/main.4422ee59.chunk.css",
-    "main.js": "/moka/static/js/main.c9c8c548.chunk.js",
-    "main.js.map": "/moka/static/js/main.c9c8c548.chunk.js.map",
+    "main.css": "/moka/static/css/main.9fb9e4b3.chunk.css",
+    "main.js": "/moka/static/js/main.76d19b77.chunk.js",
+    "main.js.map": "/moka/static/js/main.76d19b77.chunk.js.map",
     "runtime-main.js": "/moka/static/js/runtime-main.04291d8d.js",
     "runtime-main.js.map": "/moka/static/js/runtime-main.04291d8d.js.map",
-    "static/js/2.71d9526b.chunk.js": "/moka/static/js/2.71d9526b.chunk.js",
-    "static/js/2.71d9526b.chunk.js.map": "/moka/static/js/2.71d9526b.chunk.js.map",
+    "static/js/2.1952e555.chunk.js": "/moka/static/js/2.1952e555.chunk.js",
+    "static/js/2.1952e555.chunk.js.map": "/moka/static/js/2.1952e555.chunk.js.map",
     "index.html": "/moka/index.html",
-    "static/css/main.4422ee59.chunk.css.map": "/moka/static/css/main.4422ee59.chunk.css.map",
-    "static/js/2.71d9526b.chunk.js.LICENSE.txt": "/moka/static/js/2.71d9526b.chunk.js.LICENSE.txt",
+    "static/css/main.9fb9e4b3.chunk.css.map": "/moka/static/css/main.9fb9e4b3.chunk.css.map",
+    "static/js/2.1952e555.chunk.js.LICENSE.txt": "/moka/static/js/2.1952e555.chunk.js.LICENSE.txt",
     "static/media/1.299523d3.jpg": "/moka/static/media/1.299523d3.jpg",
     "static/media/1.f846e521.jpg": "/moka/static/media/1.f846e521.jpg",
     "static/media/2.090c55a2.jpg": "/moka/static/media/2.090c55a2.jpg",
@@ -38,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.04291d8d.js",
-    "static/js/2.71d9526b.chunk.js",
-    "static/css/main.4422ee59.chunk.css",
-    "static/js/main.c9c8c548.chunk.js"
+    "static/js/2.1952e555.chunk.js",
+    "static/css/main.9fb9e4b3.chunk.css",
+    "static/js/main.76d19b77.chunk.js"
   ]
 }
