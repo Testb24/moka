@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/moka/static/css/main.5e6ecccd.chunk.css",
-    "main.js": "/moka/static/js/main.2ad14917.chunk.js",
-    "main.js.map": "/moka/static/js/main.2ad14917.chunk.js.map",
+    "main.js": "/moka/static/js/main.698c08c5.chunk.js",
+    "main.js.map": "/moka/static/js/main.698c08c5.chunk.js.map",
     "runtime-main.js": "/moka/static/js/runtime-main.04291d8d.js",
     "runtime-main.js.map": "/moka/static/js/runtime-main.04291d8d.js.map",
     "static/js/2.c3e70f66.chunk.js": "/moka/static/js/2.c3e70f66.chunk.js",
@@ -25,7 +25,7 @@
     "static/media/7.1af2eec5.jpg": "/moka/static/media/7.1af2eec5.jpg",
     "static/media/8.965eed67.jpg": "/moka/static/media/8.965eed67.jpg",
     "static/media/9.39c4f500.jpg": "/moka/static/media/9.39c4f500.jpg",
-    "static/media/fond.bc1dba7e.png": "/moka/static/media/fond.bc1dba7e.png",
+    "static/media/fond.a9547cbc.png": "/moka/static/media/fond.a9547cbc.png",
     "static/media/fusee.265e01d8.png": "/moka/static/media/fusee.265e01d8.png",
     "static/media/hel.d7fe7173.png": "/moka/static/media/hel.d7fe7173.png",
     "static/media/hel1.7c13b96f.png": "/moka/static/media/hel1.7c13b96f.png",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.04291d8d.js",
     "static/js/2.c3e70f66.chunk.js",
     "static/css/main.5e6ecccd.chunk.css",
-    "static/js/main.2ad14917.chunk.js"
+    "static/js/main.698c08c5.chunk.js"
   ]
 }
