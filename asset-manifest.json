@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/moka/static/css/main.5e6ecccd.chunk.css",
-    "main.js": "/moka/static/js/main.698c08c5.chunk.js",
-    "main.js.map": "/moka/static/js/main.698c08c5.chunk.js.map",
+    "main.js": "/moka/static/js/main.f794ec90.chunk.js",
+    "main.js.map": "/moka/static/js/main.f794ec90.chunk.js.map",
     "runtime-main.js": "/moka/static/js/runtime-main.04291d8d.js",
     "runtime-main.js.map": "/moka/static/js/runtime-main.04291d8d.js.map",
     "static/js/2.c3e70f66.chunk.js": "/moka/static/js/2.c3e70f66.chunk.js",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.04291d8d.js",
     "static/js/2.c3e70f66.chunk.js",
     "static/css/main.5e6ecccd.chunk.css",
-    "static/js/main.698c08c5.chunk.js"
+    "static/js/main.f794ec90.chunk.js"
   ]
 }
